@@ -21,8 +21,8 @@ A simple React web app to demonstrate Ethereum wallet integration using MetaMask
 1. **Clone the repository** (or create a new React app and copy the code):
 
     ```
-    git clone <your-repo-url>
-    cd <your-project-folder>
+    git clone https://github.com/24Shubhu/eth-wallet-demo.git
+    cd eth-wallet-demo
     ```
 
 2. **Install dependencies**:
